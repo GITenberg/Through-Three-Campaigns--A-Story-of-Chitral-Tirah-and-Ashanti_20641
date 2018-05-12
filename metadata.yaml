@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20641#Through-Three-Campaigns--A-Story-of-Chitral-Tirah-and-Ashanti
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-02-21'
 gutenberg_type: Text
